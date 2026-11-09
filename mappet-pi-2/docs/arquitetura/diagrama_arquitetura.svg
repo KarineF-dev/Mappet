@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860" font-family="Liberation Sans, Arial, sans-serif">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+<marker id="ard" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/></marker>
+<style>
+.t{font-size:22px;font-weight:700;fill:#0f172a}
+.h{font-size:20px;font-weight:700;fill:#fff}
+.s{font-size:15px;fill:#1e293b}
+.sm{font-size:13.5px;fill:#334155}
+.b{font-weight:700}
+</style>
+</defs>
+<rect width="1400" height="860" fill="#fff"/>
+<rect x="20" y="16" width="1360" height="52" rx="8" fill="#0f172a"/>
+<text x="700" y="50" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">SOLUÇÃO TECNOLÓGICA MAPPET (PI II)</text>
+
+<!-- Interface Web -->
+<rect x="20" y="100" width="400" height="520" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<rect x="20" y="100" width="400" height="56" rx="10" fill="#2563eb"/><rect x="20" y="140" width="400" height="16" fill="#2563eb"/>
+<text x="220" y="136" text-anchor="middle" class="h">1. Interface Web</text>
+<text x="40" y="186" class="s b">Usuários externos</text>
+<text x="40" y="208" class="sm">Tutor, Acolhedor e Adotante, pelo navegador</text>
+<text x="40" y="230" class="sm">no computador ou no celular</text>
+<text x="40" y="266" class="s b">Tecnologias</text>
+<text x="40" y="288" class="sm">HTML (estrutura e formulários)</text>
+<text x="40" y="310" class="sm">CSS (estilos e responsividade)</text>
+<text x="40" y="332" class="sm">JavaScript (validações e interações)</text>
+<text x="40" y="368" class="s b">Páginas</text>
+<text x="40" y="390" class="sm">Login com vitrine e botão "Adote aqui"</text>
+<text x="40" y="412" class="sm">Cadastro</text>
+<text x="40" y="434" class="sm">Home com cards e filtros</text>
+<text x="40" y="456" class="sm">Perdi meu pet e Encontrei um pet</text>
+<text x="40" y="478" class="sm">Área de adoção e "Quero adotar"</text>
+<text x="40" y="500" class="sm">Colocar pet para adoção</text>
+<text x="40" y="540" class="sm">Disciplina: Desenvolvimento Web</text>
+<text x="40" y="562" class="sm">Nesta fase: camada de apresentação,</text>
+<text x="40" y="584" class="sm">ainda sem ligação com o banco</text>
+
+<!-- Desktop -->
+<rect x="460" y="100" width="480" height="520" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+<rect x="460" y="100" width="480" height="56" rx="10" fill="#16a34a"/><rect x="460" y="140" width="480" height="16" fill="#16a34a"/>
+<text x="700" y="136" text-anchor="middle" class="h">2. Módulo Funcional Desktop</text>
+<text x="480" y="184" class="sm">Java 11 + Swing, organizado em MVC + DAO (UC01 a UC11)</text>
+<g>
+<rect x="500" y="200" width="400" height="56" rx="6" fill="#fff" stroke="#16a34a"/>
+<text x="700" y="224" text-anchor="middle" class="s b">view</text>
+<text x="700" y="245" text-anchor="middle" class="sm">telas em Swing (login, cadastro, home, adoção...)</text>
+<rect x="500" y="282" width="400" height="56" rx="6" fill="#fff" stroke="#16a34a"/>
+<text x="700" y="306" text-anchor="middle" class="s b">controller</text>
+<text x="700" y="327" text-anchor="middle" class="sm">regras dos casos de uso e validações</text>
+<rect x="500" y="364" width="400" height="56" rx="6" fill="#fff" stroke="#16a34a"/>
+<text x="700" y="388" text-anchor="middle" class="s b">dao</text>
+<text x="700" y="409" text-anchor="middle" class="sm">SQL com PreparedStatement, uma classe por tabela</text>
+<rect x="500" y="446" width="190" height="64" rx="6" fill="#fff" stroke="#16a34a"/>
+<text x="595" y="472" text-anchor="middle" class="s b">model</text>
+<text x="595" y="493" text-anchor="middle" class="sm">dados das entidades</text>
+<rect x="710" y="446" width="190" height="64" rx="6" fill="#fff" stroke="#16a34a"/>
+<text x="805" y="472" text-anchor="middle" class="s b">util</text>
+<text x="805" y="493" text-anchor="middle" class="sm">conexão, sessão, fotos</text>
+<line x1="700" y1="256" x2="700" y2="280" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="700" y1="338" x2="700" y2="362" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+</g>
+<text x="480" y="540" class="sm">Usuários: Tutor, Acolhedor e Adotante, no computador</text>
+<text x="480" y="562" class="sm">Disciplina: Linguagem de Programação I</text>
+<text x="480" y="584" class="sm">Bibliotecas: driver JDBC do Oracle e jBCrypt (hash de senha)</text>
+
+<!-- Dados -->
+<rect x="980" y="100" width="400" height="520" rx="10" fill="#faf5ff" stroke="#7c3aed" stroke-width="2"/>
+<rect x="980" y="100" width="400" height="56" rx="10" fill="#7c3aed"/><rect x="980" y="140" width="400" height="16" fill="#7c3aed"/>
+<text x="1180" y="136" text-anchor="middle" class="h">3. Modelo de Dados</text>
+<text x="1000" y="186" class="s b">Oracle 12c ou superior</text>
+<text x="1000" y="208" class="sm">MER (Peter Chen), MLR e script DDL</text>
+<g font-size="14" font-family="DejaVu Sans Mono, monospace" fill="#3b0764">
+<rect x="1000" y="226" width="360" height="40" rx="5" fill="#fff" stroke="#c4b5fd"/><text x="1180" y="251" text-anchor="middle">T_MAPPET_USUARIO</text>
+<rect x="1000" y="276" width="360" height="40" rx="5" fill="#fff" stroke="#c4b5fd"/><text x="1180" y="301" text-anchor="middle">T_MAPPET_ESPECIE</text>
+<rect x="1000" y="326" width="360" height="40" rx="5" fill="#fff" stroke="#c4b5fd"/><text x="1180" y="351" text-anchor="middle">T_MAPPET_PUBLICACAO_PET</text>
+<rect x="1000" y="376" width="360" height="40" rx="5" fill="#fff" stroke="#c4b5fd"/><text x="1180" y="401" text-anchor="middle">T_MAPPET_ANIMAL_ADOCAO</text>
+<rect x="1000" y="426" width="360" height="40" rx="5" fill="#fff" stroke="#c4b5fd"/><text x="1180" y="451" text-anchor="middle">T_MAPPET_INTERESSE_ADOCAO</text>
+</g>
+<text x="1000" y="500" class="sm">Chaves com IDENTITY, restrições nomeadas</text>
+<text x="1000" y="522" class="sm">(PK, FK, UK, CK) e índices para a Home e filtros</text>
+<text x="1000" y="562" class="sm">Disciplina: Banco de Dados I</text>
+<text x="1000" y="584" class="sm">Fotos ficam em pasta; o banco guarda o caminho</text>
+
+<!-- JDBC arrow -->
+<line x1="900" y1="392" x2="996" y2="392" stroke="#334155" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="948" y="382" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">JDBC</text>
+
+<!-- base -->
+<rect x="20" y="645" width="1360" height="50" rx="8" fill="#fef3c7" stroke="#d97706"/>
+<text x="700" y="676" text-anchor="middle" font-size="17" font-weight="700" fill="#78350f">Segurança e LGPD · Documentação · Testes e validação · Evidências da extensão</text>
+
+<!-- evolution -->
+<rect x="20" y="720" width="1360" height="120" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-dasharray="7 5"/>
+<text x="40" y="750" font-size="17" font-weight="700" fill="#334155">Integração no PI III</text>
+<text x="40" y="777" class="sm">A lógica que hoje está no desktop (controllers e DAOs) será levada para um back end em Java no servidor.</text>
+<text x="40" y="800" class="sm">A interface web passa a consumir esse back end, que acessa o mesmo banco Oracle, e o desktop deixa de ser necessário.</text>
+<text x="40" y="823" class="sm">O modelo de dados (MER, MLR e DDL) segue o mesmo.</text>
+</svg>

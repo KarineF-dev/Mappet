@@ -1,0 +1,24 @@
+CT01|Nome com números no cadastro (UC01 E1)|não pode conter números|O nome não pode conter números.|Aprovado
+CT02|Nome só com espaços (UC01 E1)|é obrigatório|O nome é obrigatório.|Aprovado
+CT03|Nome válido com acento (UC01)|sem erros|sem erros|Aprovado
+CT04|E-mail sem @ (UC01 E1)|Informe um e-mail válido|Informe um e-mail válido.|Aprovado
+CT05|E-mail válido (UC01)|sem erros|sem erros|Aprovado
+CT06|Telefone com letras ou traço (UC01 E1)|apenas números|O telefone deve ter apenas números (até 15).|Aprovado
+CT07|Telefone com mais de 15 dígitos (MLR)|apenas números|O telefone deve ter apenas números (até 15).|Aprovado
+CT08|Telefone só com números (UC01)|sem erros|sem erros|Aprovado
+CT09|Senha vazia (UC01 E1, UC02 E1)|A senha é obrigatória|A senha é obrigatória.|Aprovado
+CT10|Bairro com números (UC08 E2)|não pode conter números|O bairro não pode conter números.|Aprovado
+CT11|Nome do pet acima de 60 caracteres (MLR)|no máximo 60|O nome do pet deve ter no máximo 60 caracteres.|Aprovado
+CT12|Descrição só com espaços (UC10 E1)|A descrição é obrigatória|A descrição é obrigatória.|Aprovado
+CT13|Foto PNG válida (UC07)|.png|.png|Aprovado
+CT14|Foto JPG válida (UC07)|.jpg|.jpg|Aprovado
+CT15|Arquivo de texto renomeado para .jpg (UC07 E1)|JPG ou PNG|A foto deve estar em JPG ou PNG.|Aprovado
+CT16|Foto PNG maior que 5 MB (UC07 E1)|no máximo 5 MB|A foto deve ter no máximo 5 MB.|Aprovado
+CT17|Publicar sem foto (UC08 E1)|A foto é obrigatória|A foto é obrigatória.|Aprovado
+CT18|Publicar pet sem login (UC05 pré-condição)|Faça login|Faça login para publicar.|Aprovado
+CT19|Abrir área de adoção sem login (UC09 A2)|Faça login|Faça login para acessar a área de adoção.|Aprovado
+CT20|Disponibilizar sem login (UC10)|Faça login|Faça login para continuar.|Aprovado
+CT21|Publicar com todos os campos vazios (UC08 E1)|O nome do pet é obrigatório.; Escolha uma espécie da lista.; O bairro é obrigatório.; A foto é obrigatória.|O nome do pet é obrigatório.; Escolha uma espécie da lista.; O bairro é obrigatório.; A foto é obrigatória.|Aprovado
+CT22|Disponibilizar sem descrição e sem foto (UC10 E1)|A descrição é obrigatória|Escolha uma espécie da lista.; A descrição é obrigatória.; A foto é obrigatória.|Aprovado
+CT23|Sair da conta encerra a sessão (UC02 A2)|false|false|Aprovado
+TOTAL|23 aprovados|0 reprovados

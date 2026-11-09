@@ -1,0 +1,7 @@
+# Copie este arquivo para config.properties (na mesma pasta) e preencha.
+# O config.properties com a senha real NAO deve ir para o GitHub.
+
+# Endereco do Oracle: jdbc:oracle:thin:@servidor:porta/servico
+db.url=jdbc:oracle:thin:@localhost:1521/XEPDB1
+db.usuario=seu_usuario
+db.senha=sua_senha

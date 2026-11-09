@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="680" viewBox="0 0 1480 680" font-family="Liberation Sans, Arial, sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="1480" height="680" fill="#fff"/>
+<rect x="20" y="20" width="1440" height="620" fill="none" stroke="#111" stroke-width="1.6"/>
+<line x1="60" y1="20" x2="60" y2="640" stroke="#111" stroke-width="1.4"/>
+<line x1="95" y1="20" x2="95" y2="640" stroke="#111" stroke-width="1"/>
+<line x1="60" y1="330" x2="1460" y2="330" stroke="#111" stroke-width="1"/>
+<text transform="translate(45,330) rotate(-90)" text-anchor="middle" font-size="17" font-weight="700">MAPPET</text>
+<text transform="translate(82,175) rotate(-90)" text-anchor="middle" font-size="15" font-weight="700">Usuário</text>
+<text transform="translate(82,485) rotate(-90)" text-anchor="middle" font-size="15" font-weight="700">Sistema</text>
+<circle cx="130" cy="190" r="17" fill="#ecfdf5" stroke="#111" stroke-width="1.6"/>
+<text x="130" y="224" text-anchor="middle" font-size="12">Acessar o</text>
+<text x="130" y="238" text-anchor="middle" font-size="12">MAPPET</text>
+<rect x="160.0" y="159.0" width="130" height="62" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="225" y="187.5" text-anchor="middle" font-size="12.5">Abrir a página</text>
+<text x="225" y="202.5" text-anchor="middle" font-size="12.5">de login</text>
+<polyline points="147,190 160,190" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<polygon points="330,168 352,190 330,212 308,190" fill="#fff8e1" stroke="#111" stroke-width="1.4"/>
+<text x="330" y="197" text-anchor="middle" font-size="20" font-weight="700">×</text>
+<text x="330" y="160" text-anchor="middle" font-size="12.5" font-style="italic">Possui conta?</text>
+<polyline points="290,190 308,190" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="270.0" y="258.0" width="120" height="54" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="330" y="282.5" text-anchor="middle" font-size="12.5">Preencher</text>
+<text x="330" y="297.5" text-anchor="middle" font-size="12.5">cadastro</text>
+<polyline points="330,212 330,258" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="338" y="240" font-size="12" font-weight="700">Não</text>
+<rect x="265.0" y="457.0" width="130" height="66" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="330" y="480.0" text-anchor="middle" font-size="12.5">Validar dados e</text>
+<text x="330" y="495.0" text-anchor="middle" font-size="12.5">criar conta com</text>
+<text x="330" y="510.0" text-anchor="middle" font-size="12.5">senha em hash</text>
+<polyline points="330,312 330,457" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="420.0" y="159.0" width="120" height="62" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="480" y="187.5" text-anchor="middle" font-size="12.5">Informar e-mail</text>
+<text x="480" y="202.5" text-anchor="middle" font-size="12.5">e senha</text>
+<polyline points="352,190 420,190" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="364" y="182" font-size="12" font-weight="700">Sim</text>
+<polyline points="395,490 407,490 407,206" fill="none" stroke="#111" stroke-width="1.4"/>
+<polyline points="407,206 420,206" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="420.0" y="459.0" width="120" height="62" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="480" y="487.5" text-anchor="middle" font-size="12.5">Conferir</text>
+<text x="480" y="502.5" text-anchor="middle" font-size="12.5">credenciais</text>
+<polyline points="480,221 480,459" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<polygon points="585,468 607,490 585,512 563,490" fill="#fff8e1" stroke="#111" stroke-width="1.4"/>
+<text x="585" y="497" text-anchor="middle" font-size="20" font-weight="700">×</text>
+<text x="585" y="460" text-anchor="middle" font-size="12.5" font-style="italic">Válidas?</text>
+<polyline points="540,490 563,490" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="520.0" y="564.0" width="130" height="52" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="585" y="587.5" text-anchor="middle" font-size="12.5">Avisar "e-mail ou</text>
+<text x="585" y="602.5" text-anchor="middle" font-size="12.5">senha incorretos"</text>
+<polyline points="585,512 585,564" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="593" y="534" font-size="12" font-weight="700">Não</text>
+<polyline points="520,590 407,590 407,490" fill="none" stroke="#111" stroke-width="1.4"/>
+<rect x="655.0" y="457.0" width="130" height="66" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="720" y="480.0" text-anchor="middle" font-size="12.5">Exibir Home com</text>
+<text x="720" y="495.0" text-anchor="middle" font-size="12.5">pets publicados</text>
+<text x="720" y="510.0" text-anchor="middle" font-size="12.5">e filtros</text>
+<polyline points="607,490 655,490" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="615" y="482" font-size="12" font-weight="700">Sim</text>
+<polygon points="720,168 742,190 720,212 698,190" fill="#fff8e1" stroke="#111" stroke-width="1.4"/>
+<text x="720" y="197" text-anchor="middle" font-size="20" font-weight="700">×</text>
+<text x="700" y="160" text-anchor="end" font-size="12.5" font-style="italic">O que deseja fazer?</text>
+<polyline points="720,457 720,212" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="805.0" y="59.0" width="150" height="62" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="880" y="80.0" text-anchor="middle" font-size="12.5">Preencher publicação</text>
+<text x="880" y="95.0" text-anchor="middle" font-size="12.5">perdido ou encontrado</text>
+<text x="880" y="110.0" text-anchor="middle" font-size="12.5">e anexar foto</text>
+<rect x="805.0" y="159.0" width="150" height="62" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="880" y="180.0" text-anchor="middle" font-size="12.5">Preencher dados do</text>
+<text x="880" y="195.0" text-anchor="middle" font-size="12.5">pet do lar temporário</text>
+<text x="880" y="210.0" text-anchor="middle" font-size="12.5">e anexar foto</text>
+<rect x="805.0" y="254.0" width="150" height="62" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="880" y="275.0" text-anchor="middle" font-size="12.5">Abrir área de adoção</text>
+<text x="880" y="290.0" text-anchor="middle" font-size="12.5">e clicar em</text>
+<text x="880" y="305.0" text-anchor="middle" font-size="12.5">"Quero adotar"</text>
+<polyline points="720,168 720,90 805,90" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="728" y="120" font-size="12" font-weight="700">Publicar</text>
+<polyline points="742,190 805,190" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="752" y="182" font-size="12" font-weight="700">Doar</text>
+<polyline points="720,212 720,285 805,285" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="728" y="277" font-size="12" font-weight="700">Adotar</text>
+<rect x="1050.0" y="367.0" width="160" height="56" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="1130" y="392.5" text-anchor="middle" font-size="12.5">Validar dados e foto</text>
+<text x="1130" y="407.5" text-anchor="middle" font-size="12.5">e publicar na Home</text>
+<rect x="1050.0" y="462.0" width="160" height="56" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="1130" y="487.5" text-anchor="middle" font-size="12.5">Validar dados e foto e</text>
+<text x="1130" y="502.5" text-anchor="middle" font-size="12.5">cadastrar para adoção</text>
+<rect x="1045.0" y="557.0" width="170" height="56" rx="10" fill="#eef4fb" stroke="#111" stroke-width="1.4"/>
+<text x="1130" y="582.5" text-anchor="middle" font-size="12.5">Registrar interesse e</text>
+<text x="1130" y="597.5" text-anchor="middle" font-size="12.5">exibir contato do acolhedor</text>
+<polyline points="955,90 1000,90 1000,395 1050,395" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<polyline points="955,190 985,190 985,490 1050,490" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<polyline points="955,285 970,285 970,585 1045,585" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<circle cx="1300" cy="395" r="17" fill="#fee2e2" stroke="#111" stroke-width="3.5"/>
+<text x="1326" y="399" font-size="12">Pet publicado</text>
+<circle cx="1300" cy="490" r="17" fill="#fee2e2" stroke="#111" stroke-width="3.5"/>
+<text x="1326" y="487" font-size="12">Animal disponível</text>
+<text x="1326" y="502" font-size="12">para adoção</text>
+<circle cx="1300" cy="585" r="17" fill="#fee2e2" stroke="#111" stroke-width="3.5"/>
+<text x="1326" y="582" font-size="12">Contato</text>
+<text x="1326" y="597" font-size="12">liberado</text>
+<polyline points="1210,395 1283,395" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<polyline points="1210,490 1283,490" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<polyline points="1215,585 1283,585" fill="none" stroke="#111" stroke-width="1.4" marker-end="url(#ar)"/>
+<path d="M1235,45 L1225,45 L1225,140 L1235,140" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="1240" y="64" font-size="12.5">Se algum dado for inválido,</text>
+<text x="1240" y="81" font-size="12.5">o sistema mostra um alerta e</text>
+<text x="1240" y="98" font-size="12.5">o usuário volta ao formulário</text>
+<text x="1240" y="115" font-size="12.5">com os dados preservados</text>
+<text x="1240" y="132" font-size="12.5">(UC07, UC08, UC10).</text>
+<line x1="1225" y1="140" x2="1150" y2="367" stroke="#111" stroke-width="1.1" stroke-dasharray="4 4"/>
+</svg>

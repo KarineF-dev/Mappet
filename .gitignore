@@ -1,0 +1,19 @@
+# Configuração com senha do banco (cada pessoa cria a sua a partir do .example)
+config.properties
+
+# Arquivos gerados na compilação
+target/
+out/
+*.class
+
+# Fotos enviadas durante os testes do MVP
+mappet-pi-2/desktop/fotos/*
+!mappet-pi-2/desktop/fotos/.gitkeep
+
+# IDEs e sistema operacional
+.idea/
+.vscode/
+*.iml
+nbproject/private/
+.DS_Store
+Thumbs.db
